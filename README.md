@@ -1,16 +1,16 @@
 # Yandex_Projects
 Yandex Practicum Data Science Bootcamp projects
-This repository contains my projects from the "Data Science Bootcamp" training program by Yandex.Praktikum
+В этом репозитории представлены проекты из курса "Data Science Bootcamp" Яндекс.Практикума
 
 Content:
-- Module 01
-  - Exploratory data analysis - Project_01
-  - Statistical analysis of data - Project_02
-  - Common project - Project_03
--Модуль 02 / Module 02
-  - Introduction to machine learning - Project_04
-  - Supervised learning - Project_05
-  - Machine learning in business - Project_06
-  - Common project - Project_07
--Модуль 03 / Module 03
-  - Linear algebra - Project_08
+- Модуль 01
+  - Исследовательский анализ данных - Project_01
+  - Статистический анализ данных - Project_02
+  - Сборный проект - Project_03
+- Модуль 02
+  - Введение в машинное обучениеg - Project_04
+  - Обучение с учителем - Project_05
+  - Машинное обучение в бизнесе - Project_06
+  - Сборный проект 2 - Project_07
+-Модуль 03
+  - Линейная алгебра - Project_08
