@@ -2,7 +2,7 @@
 Yandex Practicum Data Science Bootcamp projects
 В этом репозитории представлены проекты из курса "Data Science Bootcamp" Яндекс.Практикума
 
-Content:
+Содержание:
 - Модуль 01
   - Исследовательский анализ данных - Project_01
   - Статистический анализ данных - Project_02
