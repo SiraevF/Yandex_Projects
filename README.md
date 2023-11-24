@@ -15,3 +15,4 @@ Yandex Practicum Data Science Bootcamp projects
 - Модуль 03
   - Линейная алгебра - Project_08
   - Численные методы - Project_09
+  - Временные ряды - Project_10
