@@ -16,3 +16,4 @@ Yandex Practicum Data Science Bootcamp projects
   - Линейная алгебра - Project_08
   - Численные методы - Project_09
   - Временные ряды - Project_10
+  - Машинное обучение для текстов - Project_11
