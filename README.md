@@ -17,3 +17,5 @@ Yandex Practicum Data Science Bootcamp projects
   - Численные методы - Project_09
   - Временные ряды - Project_10
   - Машинное обучение для текстов - Project_11
+- Модуль 04
+  - Компьютерное зрение - Project_12
